@@ -1,6 +1,6 @@
 # CV
 
-Servers as host to http://dgupta.us/CV-Dhananjay-Gupta/CV-Dhananjay Gupta.pdf
+Servers as host to http://dgupta.us/CV-Dhananjay-Gupta/CV-Dhananjay-Gupta.pdf
 
 ## TODO
 + Add current Projects
